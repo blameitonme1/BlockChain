@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bouncycastle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../下载文件/bouncycastle.jar/bouncycastle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
